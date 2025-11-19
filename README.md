@@ -17,12 +17,12 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on **E-commerce Web App**
-- 🌱 I’m currently learning ... **Flutter And Redux**
-- 💬 Ask me about ... **Web Develpoment**
-- 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Love E-sports**❤
-- 📫 How to reach me **kaayush.ak71@gmail.com**
+- 🔭 I’m currently working on **World’s Largest Finance System (Your own project)**
+- 🌱 I’m currently learning ... **Laravel, PHP, Full-Stack Development**
+- 💬 Ask me about ... **Laravel, Finance Systems, JSON Tools, SEO, Web Development**
+- 😄 Employement ... **Open for freelance & project-based work**
+- ⚡ Fun fact ... **Coding + E-sports**❤
+- 📫 How to reach me **muhammadmanamil@gmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
