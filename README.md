@@ -9,8 +9,9 @@
   </a>
 </p>
 
-<h3 align="center">A passionate fullstack developer from Pakistan</h3>
-<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2023)</h3>
+<h3 align="center">A passionate full-stack developer from Pakistan</h3>
+<h3 align="center">Working professionally since 2016 in web & finance systems</h3>
+<h3 align="center">Bachelor in Computer Science (Completed)</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Resolution-1 alt=sachinverma53121/></p>
 
 
