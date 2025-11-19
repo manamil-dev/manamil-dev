@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Muhammad Manamil</h1>
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/manamilcoder/">
-    <img src="https://img.shields.io/badge/linkedin-manamil.dev-blue">
+    <img src="https://img.shields.io/badge/linkedin-Manamil-blue">
   </a>
   
   <a href="https://manamil.dev" target="_blank">
-    <img src="https://img.shields.io/badge/website-manamil.dev-blue">
+    <img src="https://img.shields.io/badge/website-Manamil-red">
   </a>
 </p>
 
